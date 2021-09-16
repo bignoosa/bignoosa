@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bignoosa
-- 👀 I’m interested in storing my work in a safe place and explore my creativity through coding!
+- 👀 I’m interested in storing my work in a safe place and exploring my creativity through coding!
 - 🌱 I’m currently learning Python3; I'm a beginner. 
 - 💞️ I’m looking to collaborate on nothing yet, but maybe something in the future. 
 - 📫 How to reach me... don't call don't text. :) 
